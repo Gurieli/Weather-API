@@ -2,8 +2,8 @@ import requests
 import smtplib
 
 ENDPOINT = "https://api.openweathermap.org/data/2.5/forecast"
-MY_API = "1a7c709f4c7a5b0dfa80308c51fa8864"
-MY_API2 = "cf404a8b0f7d275115066da594132b7b"
+MY_API = api
+MY_API2 = api2
 SALOME_MAIL = 'pkhakadze.salome7@gmail.com'
 
 parametres = {
